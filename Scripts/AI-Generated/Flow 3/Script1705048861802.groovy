@@ -9,15 +9,7 @@ def setup() {
 	WebUI.setViewPortSize(1920, 1080)	
 }
 
-'Step 1: At Page home, click on hyperlink object'
-
-WebUI.enhancedClick(findTestObject('AI-Generated/Page_home/hyperlink_object'))
-
-'Step 2: At Page home, click on hyperlink logout'
-
-WebUI.enhancedClick(findTestObject('AI-Generated/Page_home/hyperlink_logout'))
-
-'Step 3: At Page home, click on hyperlink make appointment > navigate to Page profile.php'
+'Step 1: At Page home, click on hyperlink make appointment > navigate to Page profile.php'
 
 WebUI.enhancedClick(findTestObject('AI-Generated/Page_home/hyperlink_make_appointment'))
 
