@@ -1,0 +1,17 @@
+{
+    "steps": [
+        "step 1: Navigate to Page_home",
+        "step 2: At Page home, click on input hospital readmission",
+        "step 3: At Page home, click on label object",
+        "step 4: At Page home, click on span object",
+        "step 5: At Page home, click on td object",
+        "step 6: At Page home, click on textarea comment",
+        "step 7: At Page home, input on textarea comment",
+        "step 8: At Page home, click on button btn book appointment > navigate to Page appointment.php",
+        "step 9: At Page appointment.php, click on hyperlink menu toggle",
+        "step 10: At Page appointment.php, click on hyperlink logout > navigate to Page home",
+        "step 11: At Page home, click on hyperlink btn make appointment > navigate to Page profile.php",
+        "step 12: At Page_profile.php login > navigate to Page_home",
+        "step 13: Add visual checkpoint at Page_home"
+    ]
+}
