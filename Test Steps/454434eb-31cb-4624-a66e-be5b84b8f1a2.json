@@ -1,0 +1,10 @@
+{
+    "steps": [
+        "step 1: Navigate to Page home",
+        "step 2: At Page home, click on hyperlink btn make appointment > navigate to Page profile php",
+        "step 3: At Page profile php, input on input username",
+        "step 4: At Page profile php, click on input password",
+        "step 5: At Page profile php, click on button btn login > navigate to Page home",
+        "step 6: Add visual checkpoint at Page home"
+    ]
+}
